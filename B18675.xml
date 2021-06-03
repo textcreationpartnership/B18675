@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the inhabitants of Greenwich, in the county of Kent, and reasons why they ask relief for rebuilding their parish-church.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18675</idno><idno type="EEBO-CITATION">99894962</idno>
+  <idno type="VID">188512</idno>
+  <idno type="EEBO-PROQUEST">2240923512</idno>
+  
+            <idno type="STC">Wing C1089D</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.16[9]</idno>
+            <idno type="STC">ESTC T63576</idno>
+            <idno type="PROQUEST">ocm99894962</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99894962e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188512)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:1[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the inhabitants of Greenwich, in the county of Kent, and reasons why they ask relief for rebuilding their parish-church.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With a docket title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Kent (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188512:1"/>
+            <head>The <hi>CASE</hi> of the Inhabitants of <hi>GREENWICH,</hi> in the County of <hi>Kent,</hi> and <hi>Reasons</hi> why they ask Relief for Rebuilding their Parish-Church.</head>
+            <opener>Shewing.</opener>
+            <p>THAT on <hi>Tuesday</hi> the 28th Day of <hi>November</hi> last, about Midnight the Roof of the said Parish-Church fell in, whereby the Walls of the said Church are so shaken, that by the Judgment of skillful Workmen that made a View thereof, the said Church cannot be Repaired but must be Rebuilt: The Charge whereof, by a moderate Computation, will amount to the Sum of 6000 <hi>l.</hi> and upwards, which the Inhabitants of the Parish are not able to raise; but humbly hope the Honourable HOUSE of COMMONS will compassionate their deplorable Condition, and give them such Relief therein, as they in their Wisdom shall think fit, and for the Reasons following:</p>
+            <p n="1">I. The Decay of the said Church was not perceiv'd by the Inhabitants, and consequently could not be prevented; and that the fall of the Roof was sudden and unexpected, occasion'd by a hidden Defect in the innermost Part of the largest and principal Pillar, that fell and brought the Roof with it, and not by Negligence of the Parishoners, who from Time to Time constantly and diligently Repaired all Defects of the said Church as soon as discover'd, and within a few Years last past had laid out several Hundred Pounds in the Support and Decoration thereof, and did not apprehend the same in any Danger; but believed it might have stood Hundreds of Years.</p>
+            <p n="2">II. That the Town is within this Twenty Years mightily Depopulated and Deserted by the Richer Sort, who formerly liv'd there, and gave it the Reputation of a Wealthy Parish, as is evident by the largest and best Houses now being Empty, and having been so for some Years.</p>
+            <p n="3">III. That the greatest Part of the few Gentlemen that now live there, are only Tenants at Will, and therefore it cannot be expected they will be at so great an Expence as the Building of a Church in a Parish where they have no Estate, and from whence they may remove at Pleasure; so that the Burden of Building the said Church must be upon the greatest Number, which are the Poorest of the Inhabitants.</p>
+            <p n="4">IV. That Nine Parts of Ten of the Inhabitants of the said Parish consists of Seamen, Wa<g ref="char:EOLhyphen"/>termen, Fishermen, and others, who for the most part are Imploy'd in Her Majesty's and the Merchants Service at Sea, and have numerous Families: And the Trading Part of the Town (consisting only in the Necessaries of Life) are in a low Condition by the long Credit they are forc'd to give to Sea-fairing-Men and their Families, which are frequently in long Arrears of Pay.</p>
+            <p n="5">V. So many Master of Families, Inhabitants of the Parish, have been lost in the great Storm, Sir <hi>Cloudsley Shovel</hi>'s Misfortune; and other Accidents of War, their Widows and Children, to the Number of 3000 and upwards, have become a Charge to the Parish, and have been Main<g ref="char:EOLhyphen"/>tained and Provided for (and many of them are still so) at the Charge of the rest of the Pa<g ref="char:EOLhyphen"/>rishoners.</p>
+            <p n="6">VI. That the said Parishoners having for Forty Years past, contributed to the Rebuilding of St. <hi>Paul</hi>'s and other Churches by the Taxes on Coals, the greatest Number of the Inhabitants (and upon whom the insupportable Burden of Building the Parish Church must lie) being Persons that Daily venture their Lives in Her Majesty's Service, and for the Defence of their Country, It is Humbly Presumed they may be entitled to the Compassion of the Honurable HOUSE of COMMONS for some Relief in this their Deplorable Calamity; and that as the Town hath hitherto been without Dissenting Meeting-House, so the Hopes of such who (taking Advantage of the want of a fit Place for the Service of God) endeavour to seduce the Inhabitants from their for<g ref="char:EOLhyphen"/>mer Zeal for the Church of <hi>England</hi> to Schism and Enthusiasm, may be frustrated.</p>
+            <p>And as St. <hi>Paul</hi>'s is now finish'd, or near it, and the Duties granted on Coals for that Purpose have several Years yet to come, and may probable produce much more than will pay all Debts and Charges of the said Building, and also all Monies borrowed on that Account.</p>
+            <p>
+               <hi>Therefore they Humbly Pray, that the said Sum of</hi> 6000 l. <hi>or what other Sum your Honours shall think fit for Rebuilding the said Parish-Church of</hi> Greenwich, <hi>may be assigned out of the Overplus of the said Duties which shall remain over and above defraying all Debts and Charges depending thereon, or such other Relief as to your Honours shall seem meet.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:188512:2"/>
+            <p>THE CASE <hi>Of the Inhabitants of</hi> Green<g ref="char:EOLhyphen"/>wich <hi>in the County of</hi> Kent, <hi>and</hi> Reasons <hi>why they ask Relief for Rebuilding their Parish-Church.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
